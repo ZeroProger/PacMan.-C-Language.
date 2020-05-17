@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1566908374 source:c:\code_blocks_project\test_programs\test_pacman\pacmantest6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<graphics.h>
+	<time.h>
+
+1566990088 source:e:\code_blocks_project\mini_project_15\pacmantest6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<graphics.h>
+	<time.h>
+
